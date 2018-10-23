@@ -1,0 +1,119 @@
+[
+    {
+        "HP": 10,
+        "MP": 10,
+        "ItemConfig": {
+            "ID": 1,
+            "Name": "Ring",
+            "Description": "传说\n梅戒  攻击 +10 防御 +100\n\n增加攻击和防御",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 80,
+            "Sprite": "ItemIcon/Item4",
+            "Type": 0,
+            "Quality": 0
+        }
+    },
+    {
+        "ItemConfig": {
+            "ID": 2,
+            "Name": "Hat",
+            "Description": "绝世\n无视宝帽  攻击 +200 防御 +70\n\n增加攻击和防御",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item5",
+            "Type": 1,
+            "Quality": 3
+        },
+        "strength": 100,
+        "intellect": 50,
+        "agility": 30,
+        "stamina": 50,
+        "equipType": 1
+    },
+    {
+        "ItemConfig": {
+            "ID": 3,
+            "Name": "Wing",
+            "Description": "天下无双\n天使的翅膀  攻击 +10 速度 +100\n\n增加攻击和防御",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item11",
+            "Type": 1,
+            "Quality": 4
+        },
+        "strength": 100,
+        "intellect": 50,
+        "agility": 30,
+        "stamina": 50,
+        "equipType": 2
+    },
+    {
+        "ItemConfig": {
+            "ID": 4,
+            "Name": "Cloth",
+            "Description": "稀有\n占灵宝甲  攻击 -10 防御 +200\n\n减少攻击增加防御",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item15",
+            "Type": 1,
+            "Quality": 2
+        },
+        "strength": 100,
+        "intellect": 50,
+        "agility": 30,
+        "stamina": 50,
+        "equipType": 8
+    },
+    {
+        "ItemConfig": {
+            "ID": 5,
+            "Name": "Shoes",
+            "Description": "稀有\n急速战靴  攻击 -10 防御 +200\n\n减少攻击10增加防御200",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item9",
+            "Type": 1,
+            "Quality": 2
+        },
+        "strength": 100,
+        "intellect": 50,
+        "agility": 30,
+        "stamina": 50,
+        "equipType": 5
+    },
+    {
+        "damage": 100,
+        "weaponType": 2,
+        "ItemConfig": {
+            "ID": 6,
+            "Name": "Sword",
+            "Description": "绝世\n独孤九剑  攻击 +200 防御 +70\n\n增加攻击200和防御70",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item6",
+            "Type": 2,
+            "Quality": 1
+        }
+    },
+    {
+        "damage": 50,
+        "weaponType": 1,
+        "ItemConfig": {
+            "ID": 7,
+            "Name": "Axe",
+            "Description": "绝世\n巨凌战斧  攻击 +100 防御 +50\n\n增加攻击100,防御50",
+            "Capacity": 10,
+            "PriceBuy": 100,
+            "PriceSell": 100,
+            "Sprite": "ItemIcon/Item6",
+            "Type": 2,
+            "Quality": 1
+        }
+    }
+]

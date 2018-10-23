@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 566834b78e791414e82bd2db633ccd71
+timeCreated: 1495529352
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon_Atlas_0
+    21300002: Icon_Atlas_1
+    21300004: Icon_Atlas_2
+    21300006: Icon_Atlas_3
+    21300008: Icon_Atlas_4
+    21300010: Icon_Atlas_5
+    21300012: Icon_Atlas_6
+    21300014: Icon_Atlas_7
+    21300016: Icon_Atlas_8
+    21300018: Icon_Atlas_9
+    21300020: Icon_Atlas_10
+    21300022: Icon_Atlas_11
+    21300024: Icon_Atlas_12
+    21300026: Icon_Atlas_13
+    21300028: Icon_Atlas_14
+    21300030: Icon_Atlas_15
+    21300032: Icon_Atlas_16
+    21300034: Icon_Atlas_17
+    21300036: Icon_Atlas_18
+    21300038: Icon_Atlas_19
+    21300040: Icon_Atlas_20
+    21300042: Icon_Atlas_21
+    21300044: Icon_Atlas_22
+    21300046: Icon_Atlas_23
+    21300048: Icon_Atlas_24
+    21300050: Icon_Atlas_25
+    21300052: Icon_Atlas_26
+    21300054: Icon_Atlas_27
+    21300056: Icon_Atlas_28
+    21300058: Icon_Atlas_29
+    21300060: Icon_Atlas_30
+    21300062: Icon_Atlas_31
+    21300064: Icon_Atlas_32
+    21300066: Icon_Atlas_33
+    21300068: Icon_Atlas_34
+    21300070: Icon_Atlas_35
+    21300072: Icon_Atlas_36
+    21300074: Icon_Atlas_37
+    21300076: Icon_Atlas_38
+    21300078: Icon_Atlas_39
+    21300080: Icon_Atlas_40
+    21300082: Icon_Atlas_41
+    21300084: Icon_Atlas_42
+    21300086: Icon_Atlas_43
+    21300088: Icon_Atlas_44
+    21300090: Icon_Atlas_45
+    21300092: Icon_Atlas_46
+    21300094: Icon_Atlas_47
+    21300096: Icon_Atlas_48
+    21300098: Icon_Atlas_49
+    21300100: Icon_Atlas_50
+    21300102: Icon_Atlas_51
+    21300104: Icon_Atlas_52
+    21300106: Icon_Atlas_53
+    21300108: Icon_Atlas_54
+    21300110: Icon_Atlas_55
+    21300112: Icon_Atlas_56
+    21300114: Icon_Atlas_57
+    21300116: Icon_Atlas_58
+    21300118: Icon_Atlas_59
+    21300120: Icon_Atlas_60
+    21300122: Icon_Atlas_61
+    21300124: Icon_Atlas_62
+    21300126: Icon_Atlas_63
+    21300128: Icon_Atlas_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 903
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 913
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 912
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 913
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 905
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 824
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 827
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 779
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 782
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 649
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 648
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 687
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 524
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 519
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 425
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 266
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 328
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 333
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 343
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 334
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 322
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 261
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 257
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 273
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 264
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 266
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 277
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 264
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 264
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 262
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 272
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 261
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 139
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 134
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 128
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 199
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 196
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 207
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 208
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 200
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 140
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 137
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 132
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 135
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 132
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 53
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 4
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 76
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 65
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icon_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 4
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

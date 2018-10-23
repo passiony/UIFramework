@@ -1,0 +1,1 @@
+[{"level":33,"num":0,"name":"\u96F7\u5FB7\u7F57","hp":44,"mp":0,"damage":0},{"level":33,"num":0,"name":"\u96F7\u5FB7\u7F57","hp":44,"mp":0,"damage":0},{"level":33,"num":0,"name":"\u96F7\u5FB7\u7F57","hp":44,"mp":0,"damage":0},{"level":33,"num":0,"name":"\u96F7\u5FB7\u7F57","hp":44,"mp":0,"damage":0}]
